@@ -1,16 +1,25 @@
-### Hi there 👋
+[![Get in touch via Discord](https://badges.krynn.dev/discord/?id=411498156208029707)](https://github.com/CDFN)   [![Get in touch via Mail](https://badges.krynn.dev/email/?address=macioszektv@gmail.com)](https://github.com/MacioSzekTV)
 
-<!--
-**MacioSzekTV/MacioSzekTV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi, I'm [MacioSzekTV](https://github.com/MacioSzekTV)! 👋
 
-Here are some ideas to get you started:
+<br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Welcome to my profile!<br/>
+I'm 14 years old programmer from Poland.<br/>
+**Languages**: <br/>
+- Java
+- Kotlin
+- C#
+- Python
+- HTML
+- JavaScript
+- Go *learning*
+
+**Editors/IDEs**: <br/>
+- IntellIJ
+- Eclipse
+- Atom
+- Visual Studio Code
+
+[![MacioSzekTV GitHub stats](https://github-readme-stats.vercel.app/api?username=MacioSzekTV&show_icons=true&theme=gruvbox)](https://github.com/MacioSzekTV)<br/>
+[![CDFN's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MacioSzekTV&langs_count=8&theme=gruvbox)](https://github.com/MacioSzekTV/repositories)
