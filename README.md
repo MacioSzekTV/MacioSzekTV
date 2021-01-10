@@ -13,7 +13,7 @@ I'm 14 years old programmer from Poland.<br/>
 - Python
 - HTML
 - JavaScript
-- Go *learning*
+- *learning* Go 
 
 **Editors/IDEs**: <br/>
 - IntellIJ
