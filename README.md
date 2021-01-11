@@ -5,7 +5,7 @@
 <br/>
 
 Welcome to my profile!<br/>
-I'm 14 years old programmer from Poland.<br/>
+I'm człowiek
 **Languages**: <br/>
 - Java
 - Kotlin
