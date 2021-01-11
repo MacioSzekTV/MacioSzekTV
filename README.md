@@ -5,7 +5,7 @@
 <br/>
 
 Welcome to my profile!<br/>
-I'm człowiek
+I'm człowiek <br/>
 **Languages**: <br/>
 - Java
 - Kotlin
