@@ -22,5 +22,5 @@ Welcome to my profile!<br/>
 - Visual Studio Code
 
 [![MacioSzekTV GitHub stats](https://github-readme-stats.vercel.app/api?username=MacioSzekTV&show_icons=true&theme=gruvbox)](https://github.com/MacioSzekTV)<br/>
-[![MacioSzekTV's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MacioSzekTV&langs_count=8&theme=gruvbox)](https://github.com/MacioSzekTV/repositories)
-[[MacioSzekTV playing music][(https://spotify-github-profile.vercel.app/api/view.svg?uid=pxbp9n3ox5kaerosil52egfjc&cover_image=true&theme=novatorem)]]
+[![MacioSzekTV's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MacioSzekTV&langs_count=8&theme=gruvbox)](https://github.com/MacioSzekTV/repositories)<br/>
+[![MacioSzekTV playing music][(https://spotify-github-profile.vercel.app/api/view.svg?uid=pxbp9n3ox5kaerosil52egfjc&cover_image=true&theme=novatorem)]]
