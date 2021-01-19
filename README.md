@@ -1,4 +1,4 @@
-[![Get in touch via Discord](https://badges.krynn.dev/discord/?id=41149815620802970)](https://github.com/MacioSzekTV)   [![Get in touch via Mail](https://badges.krynn.dev/email/?address=contact@macioszektv.eu)](https://github.com/MacioSzekTV)
+[![Get in touch via Discord](https://badges.krynn.dev/discord/?id=411498156208029707)](https://github.com/MacioSzekTV)   [![Get in touch via Mail](https://badges.krynn.dev/email/?address=contact@macioszektv.eu)](https://github.com/MacioSzekTV)
 
 ### Hi, I'm [MacioSzekTV](https://github.com/MacioSzekTV)! 👋
 
