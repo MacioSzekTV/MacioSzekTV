@@ -11,7 +11,6 @@ Welcome to my profile!<br/>
 - Kotlin
 - C#
 - Python
-- HTML
 - JavaScript
 - *learning* Go 
 
