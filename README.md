@@ -12,7 +12,7 @@ Welcome to my profile!<br/>
 - C#
 - Python
 - JavaScript
-- *learning* Go 
+- Go 
 
 **Editors/IDEs**: <br/>
 - IntellIJ
