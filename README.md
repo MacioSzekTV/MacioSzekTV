@@ -13,12 +13,14 @@ Welcome to my profile!<br/>
 - Python
 - JavaScript
 - Go 
+- Maya
 
 **Editors/IDEs**: <br/>
 - IntellIJ
 - Eclipse
 - Atom
 - Visual Studio Code
+- Code::Blocks
 
 [![MacioSzekTV GitHub stats](https://github-readme-stats.vercel.app/api?username=MacioSzekTV&show_icons=true&theme=gruvbox)](https://github.com/MacioSzekTV)<br/>
 [![MacioSzekTV's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MacioSzekTV&langs_count=8&theme=gruvbox)](https://github.com/MacioSzekTV/repositories)<br/>
