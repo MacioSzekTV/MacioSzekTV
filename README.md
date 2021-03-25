@@ -22,6 +22,9 @@ Welcome to my profile!<br/>
 - Visual Studio Code
 - Code::Blocks
 
-[![MacioSzekTV GitHub stats](https://github-readme-stats.vercel.app/api?username=MacioSzekTV&show_icons=true&theme=gruvbox)](https://github.com/MacioSzekTV)<br/>
-[![MacioSzekTV's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MacioSzekTV&langs_count=8&theme=gruvbox)](https://github.com/MacioSzekTV/repositories)<br/>
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=pxbp9n3ox5kaerosil52egfjc&cover_image=true&theme=novatorem)](https://github.com/MacioSzekTV)
+<a href="https://github.com/macioszektv">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=macioszektv&show_icons=true&include_all_commits=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=232323" alt="sim-swapper's stats" />
+  <a href="https://github.com/macioszektv?tab=repositories">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=macioszektv&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=232323" />
+</a>
+</a>
