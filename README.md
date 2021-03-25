@@ -1,6 +1,6 @@
 [![Get in touch via Discord](https://badges.krynn.dev/discord/?id=411498156208029707)](https://github.com/MacioSzekTV)   [![Get in touch via Mail](https://badges.krynn.dev/email/?address=contact@macioszektv.eu)](https://github.com/MacioSzekTV)
 
-# Hi, I'm [MacioSzekTV](https://github.com/MacioSzekTV)! 👋
+<h1 align="center">Hi, I'm <a href="https://github.com/MacioSzekTV">MacioSzekTV</a>! 👋</h1>
 <div align="center">
 	<strong> Owner of <a href="https://github.com/MayaLang">MayaLang</a></strong>
 </div>
