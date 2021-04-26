@@ -32,5 +32,5 @@ Welcome to my profile!<br/>
 </a>
 </a>
 <img
-  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=macioszektv&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
+  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=macioszektv&badges=2&show-header=false&style=--header-bg-color:%23000;--border-radius:10px"
 />
