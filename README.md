@@ -1,4 +1,4 @@
-   [![Get in touch via Discord](https://badges.krynn.dev/discord/?manual=true&tag=macioch%237383)](https://github.com/MacioSzekTV)   [![Get in touch via Mail](https://badges.krynn.dev/email/?address=contact@macioszektv.eu)](https://github.com/MacioSzekTV) [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=pxbp9n3ox5kaerosil52egfjc&cover_image=false&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
+   [![Get in touch via Discord](https://badges.krynn.dev/discord/?manual=true&tag=macioch%237383)](https://github.com/MacioSzekTV)   [![Get in touch via Mail](https://badges.krynn.dev/email/?address=contact@macioszektv.eu)](https://github.com/MacioSzekTV) &nbsp; [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=pxbp9n3ox5kaerosil52egfjc&cover_image=false&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
 
 <h1 align="center">Hi, I'm <a href="https://github.com/MacioSzekTV">MacioSzekTV</a>! 👋</h1>
 <div align="center">
