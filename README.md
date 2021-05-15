@@ -1,5 +1,5 @@
-<center>[![Get in touch via Discord](https://badges.krynn.dev/discord/?id=411498156208029707)](https://github.com/MacioSzekTV)   [![Get in touch via Mail](https://badges.krynn.dev/email/?address=contact@macioszektv.eu)](https://github.com/MacioSzekTV)
-![discord](https://discord.c99.nl/widget/theme-1/411498156208029707.png)</center>
+[center][![Get in touch via Discord](https://badges.krynn.dev/discord/?id=411498156208029707)](https://github.com/MacioSzekTV)   [![Get in touch via Mail](https://badges.krynn.dev/email/?address=contact@macioszektv.eu)](https://github.com/MacioSzekTV)
+![discord](https://discord.c99.nl/widget/theme-1/411498156208029707.png)[/center]
 
 <h1 align="center">Hi, I'm <a href="https://github.com/MacioSzekTV">MacioSzekTV</a>! 👋</h1>
 <div align="center">
