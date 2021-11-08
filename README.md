@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi, I'm <a href="https://github.com/MacioSzekTV">MacioSzekTV</a>! 👋</h1>
 <div align="center">
-	<strong> Owner of <a href="https://github.com/MayaLang">MayaLang</a></strong>
+	<strong><a href="https://macioszektv.eu">my website</a></strong>
 </div>
 
 <br/>
