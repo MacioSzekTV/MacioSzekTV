@@ -31,6 +31,3 @@ Welcome to my profile!<br/>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=macioszektv&layout=compact&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=232323" />
 </a>
 </a>
-<img
-  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=macioszektv&badges=2&show-header=false&style=--header-bg-color:%23000;--border-radius:10px"
-/>
